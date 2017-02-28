@@ -9,7 +9,7 @@ Swift 3.0
 当拖动滑块或缩略图时，当前选取的时间段会实时通过代理方法返回以供使用。
 
 ##功能演示
-![](http://upload-images.jianshu.io/upload_images/4518631-37266302283569c7.gif?imageMogr2/auto-orient/strip)
+![](https://github.com/WillieWangWei/VideoLine/blob/master/VedioLine.gif)
 
 ##使用
 * 导入
