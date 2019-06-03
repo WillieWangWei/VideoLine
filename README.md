@@ -1,17 +1,17 @@
 # VideoLine
 
-##需求
+## 需求
 Swift 3.0
 
-##说明
+## 说明
 一个视频时间轴选择控件。它可以自动解析一个包含录像信息的`AVAsset`对象，进而生成缩略图来显示。
 
 当拖动滑块或缩略图时，当前选取的时间段会实时通过代理方法返回以供使用。
 
-##功能演示
+## 功能演示
 ![](https://github.com/WillieWangWei/VideoLine/blob/master/VedioLine.gif)
 
-##使用
+## 使用
 * 导入
 
 直接拖拽`VideoLine.swift`到您的项目中即可。
@@ -63,5 +63,5 @@ func videoLineDidEndDragging(_ videoLine: VideoLine) {
 
 请参照Demo。
 
-##实现过程
+## 实现过程
 [《使用Swift构建一个视频时间轴控件》](http://www.jianshu.com/p/5fbc1079d63f)
